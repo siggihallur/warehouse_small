@@ -1,1 +1,1 @@
-warehouse_small
+warehouse_aalesund
